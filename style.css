@@ -1,0 +1,40 @@
+* {
+    padding : 0;
+    margin : 0;
+}
+ 
+.wrapper {
+     width: 100%;
+}
+
+.img-info {
+    width: 100%;
+}
+
+.wrapper h1 {
+ padding: 30px 30px 20px;
+ font-family: helvetica neue;
+ font-style: oblique;
+ font-size: 39px;
+ text-align: center;
+ color: white;
+ line-height: 44px;
+}
+
+.img-info p {
+ padding: 20px 30px 30px;
+ font-family: arial;
+ font-style: italic;
+ font-size: 16px;
+ color: white;
+ line-height:  24px;
+}
+
+.img-us {
+  width: 100%;
+}
+
+body {
+    background : black;
+    color : white;
+}
